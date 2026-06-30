@@ -1,0 +1,13 @@
+# 敏感信息 — 禁止提交
+.env
+
+# 批量处理中间产物
+_asr_progress.json
+_asr_audio_cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# 输出文件
+*.xlsx
